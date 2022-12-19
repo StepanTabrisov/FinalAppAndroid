@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FinalApp</string>
+    <string name="MyWalletTag">MY WALLET</string>
+    <string name="EnterButton">Войти</string>
+    <string name="RegButton">Зарегистрироваться</string>
+</resources>
